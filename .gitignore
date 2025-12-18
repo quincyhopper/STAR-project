@@ -1,0 +1,6 @@
+*.r
+*.parquet
+
+.vscode
+logreg.ipynb
+Standardisation: does dimension magnitude equal importance?.ipynb
